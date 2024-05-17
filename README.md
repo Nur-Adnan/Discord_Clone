@@ -1,3 +1,1 @@
-# Discord_Clone
-
-![discord_clone](https://user-images.githubusercontent.com/56475820/224942470-cb1cfd0c-17b6-436c-bb81-f3a2daa455ee.png)
+![screencapture-discord-clone-adnan-netlify-app-2024-05-18-02_29_49](https://github.com/Nur-Adnan/Discord_Clone/assets/56475820/76c82730-8472-4430-9c50-d963ce603514)
